@@ -20,6 +20,10 @@ gem install jekyll-sitemap
 npm install -g grunt-cli
 npm install
 ```
+or
+```
+gem install jekyll && gem install jekyll-sitemap && npm install -g grunt-cli && npm install
+```
 
 ## To Run
 
